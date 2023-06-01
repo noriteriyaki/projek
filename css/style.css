@@ -5,14 +5,14 @@
     box-sizing: border-box;
 }
 
-h1{
+h1 {
     text-align: center;
     color: antiquewhite;
     padding: 20px;
     font-family: 'Kaushan Script', cursive;
 }
 
-nav{
+nav {
     background-color: #7D8F69;
     display: grid;
     place-items: center;
@@ -22,7 +22,7 @@ a{
     text-decoration: none;
 }
 
-header{
+header {
     min-height: 100vh;
     background-image: url('../pic/lmao.png');
     background-position: bottom;
@@ -39,7 +39,7 @@ header{
 
 }
 
-.hero h2{
+.hero h2 {
     font-size: 3rem;
     text-shadow: 2px 2px 2px rgba(76, 69, 3, 0.872);
 }
@@ -63,12 +63,12 @@ header{
     font-family: 'Patrick Hand', cursive;
 }
 
-footer{
+footer {
     background-color: #7D8F69;
     padding: 1rem 0;
     text-align: center;
 }
 
-footer p{
+footer p {
     color: #fbf2e6;
 }
