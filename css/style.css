@@ -24,7 +24,7 @@ a{
 
 header{
     min-height: 100vh;
-    background-image: url('pic/Desain\ tanpa\ judul\ \(2\).png');
+    background-image: url('../pic/Desain\ tanpa\ judul\ \(2\).png');
     background-position: bottom;
     background-size: cover;
     display: flex;
